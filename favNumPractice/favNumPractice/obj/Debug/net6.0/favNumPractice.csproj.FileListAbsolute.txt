@@ -1,0 +1,15 @@
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\bin\Debug\net6.0\favNumPractice.exe
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\bin\Debug\net6.0\favNumPractice.deps.json
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\bin\Debug\net6.0\favNumPractice.runtimeconfig.json
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\bin\Debug\net6.0\favNumPractice.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\bin\Debug\net6.0\favNumPractice.pdb
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\obj\Debug\net6.0\favNumPractice.csproj.AssemblyReference.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\obj\Debug\net6.0\favNumPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\obj\Debug\net6.0\favNumPractice.AssemblyInfoInputs.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\obj\Debug\net6.0\favNumPractice.AssemblyInfo.cs
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\obj\Debug\net6.0\favNumPractice.csproj.CoreCompileInputs.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\obj\Debug\net6.0\favNumPractice.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\obj\Debug\net6.0\refint\favNumPractice.dll
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\obj\Debug\net6.0\favNumPractice.pdb
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\obj\Debug\net6.0\favNumPractice.genruntimeconfig.cache
+C:\Users\caleb\OneDrive\Desktop\Repos\Extra Practice\favNumPractice\favNumPractice\obj\Debug\net6.0\ref\favNumPractice.dll
